@@ -19,20 +19,17 @@ Welcome to my **Number Guessing Game**! This is my second Python project. In thi
 ### Running the Game
 
 #### Using Python
+## Cloning the Repository
 
-1. **Clone the Repository**: Create a local copy of the project files on your machine. Run the following command:
-    ```bash
-    git clone https://github.com/Ayesha-Shakoor-94/python-learning-journey/tree/fbc5e96fe912c49f18ba85ba97fcde9ff23c8ca5/python_projects/Number_Guessing_Game
-    ```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ayesha-Shakoor-94/python-learning-journey.git
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd number-guessing-game
-    ```
+    
+    cd python-learning-journey
 
-3. **Run the Game**:
-    ```bash
-    python guessing_game.py
     ```
 
 #### Using Docker
