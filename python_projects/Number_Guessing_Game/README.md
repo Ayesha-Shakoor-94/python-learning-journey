@@ -22,7 +22,7 @@ Welcome to my **Number Guessing Game**! This is my second Python project. In thi
 
 1. **Clone the Repository**: Create a local copy of the project files on your machine. Run the following command:
     ```bash
-    git clone https://github.com/Ayesha-Shakoor-94/number-guessing-game.git
+    git clone https://github.com/Ayesha-Shakoor-94/python-learning-journey/tree/fbc5e96fe912c49f18ba85ba97fcde9ff23c8ca5/python_projects/Number_Guessing_Game
     ```
 
 2. **Navigate to the Project Directory**:
