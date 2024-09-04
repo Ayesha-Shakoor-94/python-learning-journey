@@ -1,6 +1,6 @@
 FROM jupyter/base-notebook:latest
 
-WORKDIR /myCode
+WORKDIR /myCodeass
 
 COPY . .
 

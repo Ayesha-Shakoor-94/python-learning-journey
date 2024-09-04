@@ -1,3 +1,7 @@
+Here's the updated README with the additional information about your Docker Hub repository:
+
+---
+
 # 🎲 Number Guessing Game
 
 Welcome to my **Number Guessing Game**! This is my second Python project. In this game, you'll try to guess a randomly generated number between 1 and 10. 🎉
@@ -47,6 +51,18 @@ Welcome to my **Number Guessing Game**! This is my second Python project. In thi
     docker run -it number-guessing-game
     ```
 
+### Pulling the Docker Image from Docker Hub
+
+1. **Pull the Image**: You can pull the image from Docker Hub if you want to test it without building it yourself. Run the following command:
+    ```bash
+    docker pull ashu2445/guessing_game:latest
+    ```
+
+2. **Run the Pulled Image**: Start a container from the pulled image.
+    ```bash
+    docker run -it ashu2445/guessing_game:latest
+    ```
+
 ## Code Overview
 
 - 🎲 **Random Number Generation**: Generates a random integer between 1 and 10 each time the game is played.
@@ -85,3 +101,10 @@ def guessgame() -> None:
 
 # 🚀 Starting the game
 guessgame()
+```
+
+## Docker Hub Repository
+
+I have created and pushed this Docker image to Docker Hub for practice and learning purposes. You can pull the image and run it on your local machine from my Docker Hub profile: [ashu2445/guessing_game](https://hub.docker.com/r/ashu2445/guessing_game).
+
+---
